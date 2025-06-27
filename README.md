@@ -37,11 +37,7 @@ Follow these steps to get the project up and running on your local machine:
 git clone https://github.com/iam-veeramalla/first-mlops-project.git
 cd first-mlops-project
 
-#### 2. Create Virtual Environment
 
-```bash
-python3 -m venv .mlops
-source .mlops/bin/activate
 
 
 
