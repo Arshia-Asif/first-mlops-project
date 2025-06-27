@@ -13,3 +13,18 @@ We’ll go from:
 - ✅ **Dockerization**
 - ✅ **Kubernetes Deployment**
 
+  ### 📊 Problem Statement
+
+The goal of this project is to **predict whether a person is diabetic** based on the following health metrics:
+
+- 🍼 **Pregnancies**
+- 🍬 **Glucose**
+- 💓 **Blood Pressure**
+- ⚖️ **BMI (Body Mass Index)**
+- 🎂 **Age**
+
+We use a **Random Forest Classifier** trained on the **Pima Indians Diabetes Dataset** to make predictions.
+
+This dataset is widely used for binary classification problems in healthcare and is ideal for beginners learning ML pipelines and deployment.
+
+
