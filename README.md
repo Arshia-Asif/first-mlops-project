@@ -36,6 +36,7 @@ Follow these steps to get the project up and running on your local machine:
 ```bash
 git clone https://github.com/iam-veeramalla/first-mlops-project.git
 cd first-mlops-project
+
 #### 2. Create Virtual Environment
 
 ```bash
