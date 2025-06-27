@@ -27,5 +27,16 @@ The goal of this project is to **predict whether a person is diabetic** based on
 We use a **Random Forest Classifier** trained on the **Pima Indians Diabetes Dataset** to make predictions.
 
 This dataset is widely used for binary classification problems in healthcare and is ideal for beginners learning ML pipelines and deployment.
+----------
+### 🚀 Quick Start
+
+Follow these steps to get the project up and running on your local machine:
+
+#### 1. Clone the Repository
+
+```bash
+git clone https://github.com/iam-veeramalla/first-mlops-project.git
+cd first-mlops-project
+
 
 
