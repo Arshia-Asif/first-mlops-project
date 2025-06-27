@@ -12,6 +12,7 @@ We’ll go from:
 - ✅ **API Deployment with FastAPI**
 - ✅ **Dockerization**
 - ✅ **Kubernetes Deployment**
+  ---
 
   ### 📊 Problem Statement
 
