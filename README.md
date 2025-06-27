@@ -36,8 +36,9 @@ cd first-mlops-project
 ### 2. Create Virtual Environment
 
 ```
-python3 -m venv .mlops
-source .mlops/bin/activate
+py -m venv .mlops
+.mlops\Scripts\activate
+
 ```
 
 ### 3. Install Dependencies
